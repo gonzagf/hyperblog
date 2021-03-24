@@ -54,8 +54,8 @@ body
 
 #footer
 {
-    background: #37488b;
+    background: black;
     color: white;
     text-align: center;
-    padding: 0.5em;
+    padding: 0,1em;
 }
