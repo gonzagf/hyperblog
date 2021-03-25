@@ -1,3 +1,4 @@
 Hoy hablaremos de su vida.
 Gonza Gimenez tiene 26 años, nació en San Martin Mendoza y vive en San Luis. 
 Está empezando a aprender en serio programación.
+Estoy probando si funciona guardar lo editado con shift+z dos veces.
